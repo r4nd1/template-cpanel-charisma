@@ -14,7 +14,7 @@ Please visit [http://usman.it/free-responsive-admin-template/](http://usman.it/f
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/usmanhalalit/charisma/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
-<img src="https://raw.github.com/r4nd1/template-cpanel-charisma/master/demo-img/images_admin_charisma.png" with="900">
+<img src="https://raw.github.com/r4nd1/template-cpanel-charisma/master/demo-img/images_admin_charisma.PNG" with="900">
 
 ## Uploader
 * Name         : Randy Riolis
